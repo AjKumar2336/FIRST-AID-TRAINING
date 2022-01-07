@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6BHEHPq3bmw_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">FIRST AID TRAINING</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="FIRST_AID_TRAINING_ORG">
+    <organization identifier="FIRST_AID_TRAINING_ORG">
+      <title>FIRST AID TRAINING</title>
+      <item identifier="FIRST_AID_TRAINING_SCO" isvisible="true" identifierref="__6BHEHPq3bmw_course_id_RES">
+        <title>FIRST AID TRAINING</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6BHEHPq3bmw_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5oQr0Ppbvxq_80_DX2560_DY2560_CX1920_CY1080.jpg" />
+      <file href="mobile/6VOLNaEf1VB_80_DX454_DY454_CX339_CY124.png" />
+      <file href="mobile/6VOLNaEf1VB_80_DX454_DY454_CX254_CY93.png" />
+      <file href="mobile/6VOLNaEf1VB_80_DX454_DY454_CX222_CY81.png" />
+      <file href="mobile/6FXTG5iD48h_80_DX2048_DY2048_CX1024_CY250.png" />
+      <file href="mobile/5qQAiJ8vwR7_80_P_38_0_857_666_DX1212_DY1212_CX857_CY666.png" />
+      <file href="mobile/6831Yh2h8AI_80_DX2560_DY2560_CX1280_CY720.png" />
+      <file href="mobile/6L4p5dk7rRl_80_DX1570_DY1570_CX873_CY700.png" />
+      <file href="mobile/5VdzVzrcjZC_80_DX2276_DY2276_CX1243_CY283.png" />
+      <file href="mobile/5obSTcsrF9K_80_DX1276_DY1276_CX638_CY900.png" />
+      <file href="mobile/5aStn09e2Vw_80_DX784_DY784_CX392_CY279.png" />
+      <file href="mobile/5u9asecSKAv_80_DX784_DY784_CX392_CY279.png" />
+      <file href="mobile/6TYmjmk3tXL_80_DX784_DY784_CX392_CY279.png" />
+      <file href="mobile/69PYaE0O0Qb_80_P_0_0_959_481_DX1918_DY1918_CX959_CY482.png" />
+      <file href="mobile/6WJ471M9lEb_80_P_0_0_791_540_DX1918_DY1918_CX791_CY540.png" />
+      <file href="mobile/5Y3D8NTf5sN_80_DX2556_DY2556_CX1917_CY1079.jpg" />
+      <file href="mobile/6LSKgstndCJ_80_DX982_DY982_CX725_CY550.png" />
+      <file href="mobile/6C80zm4AJcP_80_DX1918_DY1918_CX959_CY540.png" />
+      <file href="mobile/6UlDA93wTZ3_80_P_144_0_814_540_DX1524_DY1524_CX815_CY540.png" />
+      <file href="mobile/5VmgjV3cOxT_80_DX1918_DY1918_CX959_CY540.png" />
+      <file href="mobile/64aP7Ergs5M_80_DX1918_DY1918_CX959_CY540.png" />
+      <file href="mobile/5sZclnz079u_80_DX2560_DY2560_CX1920_CY1080.png" />
+      <file href="mobile/6VOLNaEf1VB_80_DX454_DY454_CX183_CY67.png" />
+      <file href="mobile/6Sb820ploxT_80_P_18_74_190_75_DX290_DY290_CX184_CY73.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hmK6FjBtT2.js" />
+      <file href="html5/data/js/5q6k1cvKFmW.js" />
+      <file href="html5/data/js/5qTRz1Nvcui.js" />
+      <file href="html5/data/js/5yRZrkCK1MU.js" />
+      <file href="html5/data/js/5zHMKdmIms2.js" />
+      <file href="html5/data/js/69CN1q4ZFvz.js" />
+      <file href="html5/data/js/6B24c1m9anp.js" />
+      <file href="html5/data/js/6flf3aqsV3L.js" />
+      <file href="html5/data/js/6FUzm492NOO.js" />
+      <file href="html5/data/js/6GqCvFxgdaJ.js" />
+      <file href="html5/data/js/6hX98alHZsX.js" />
+      <file href="html5/data/js/6Nv32CN23WA.js" />
+      <file href="html5/data/js/6OnvpMHDLSt.js" />
+      <file href="html5/data/js/6OvtfTOdFOQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
